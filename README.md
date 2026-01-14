@@ -17,4 +17,4 @@ El objetivo es analizar el rendimiento de campañas de correo electrónico para 
 
 ## 📂 Contenido
 - `Limpieza_del_DF.ipynb`: Código fuente en Python con comentarios explicativos.
-- `Prueba_Analisis_Datos_Limpio.csv`: Dataset procesado listo para análisis.
+- `Prueba Analisis de Datos - Rettain - Limpio.csv`: Dataset procesado listo para análisis.
