@@ -36,7 +36,7 @@ El objetivo principal es identificar los patrones de comportamiento de los usuar
 ├── notebooks/
 │   └── Limpieza_del_DF.ipynb                            # Script de limpieza en Python
 ├── output/                                              # Datasets resultantes por pregunta
-│   ├── p1.csv, p2.csv, p3_rpr.csv                       # Métricas de Rentabilidad
+│   ├── p1.csv, p2.csv, p3_rpr.csv y .csv de origen      # Métricas de Rentabilidad
 │   ├── p456.csv                                         # Métricas de Engagement
 │   └── p78.csv                                          # Métricas de Segmentación
 └── README.md
