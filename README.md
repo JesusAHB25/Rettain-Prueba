@@ -11,7 +11,7 @@ El objetivo es analizar el rendimiento de campañas de correo electrónico para 
 - **Google Sheets:** Para la visualización final y presentación de hallazgos.
 
 ## 📈 Métricas Principales
-- **RPR (Revenue per Recipient):** Calculado como `Ingreso Total / Destinatarios Totales`.
+- **RPR (Revenue per Recipient):** Calculado como `Revenue Total / Recipients Totales`.
 - **Tasa de Conversión (CVR):** Eficiencia de clicks convertidos en ventas.
 - **Análisis Segmentado:** Diferenciación entre Primera Compra y Clientes Recurrentes.
 
